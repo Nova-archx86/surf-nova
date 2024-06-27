@@ -1,0 +1,4 @@
+config.h
+*.o
+surf
+surf-2.1/
