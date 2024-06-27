@@ -195,5 +195,9 @@ static Alias aliases[] = {
     /* Alias        URI */
     { "ddg",       "https://duckduckgo.com" },
     { "wikipedia", "https://www.wikipedia.org" },
-		{ "suckless",  "https://suckless.org"}
+		{ "suckless",  "https://suckless.org"},
+		{ "sci",       "https://www.scienceforums.net"},
+		{ "endchan",   "https://endchan.org"}
 };
+
+#define HOMEPAGE "https://duckduckgo.com/"
